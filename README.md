@@ -1,4 +1,4 @@
-# 基于SpringBoot学生宿舍管理微信小程序-毕业设计
+# 基于Java+Springboot+Vue学生宿舍管理微信小程序-毕业设计
 
 # 获取地址
 
